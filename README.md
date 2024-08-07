@@ -1,7 +1,5 @@
 # 🎉 Sentiment Analysis on YouTube Comments using RoBERTa and SVM 🚀
 
-!["Sentiment Analysis"](https://media.giphy.com/media/3o6Mb5Cy8Xb3N6L5u0/giphy.gif)
-
 ## 📚 Overview
 
 Welcome to the **Sentiment Analysis on YouTube Comments** project! This project aims to analyze and predict the sentiment of comments on YouTube videos using advanced machine learning techniques. We leverage the power of the RoBERTa transformer model for feature extraction and Support Vector Machine (SVM) for sentiment classification. 🎯
