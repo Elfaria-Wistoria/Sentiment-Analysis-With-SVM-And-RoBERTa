@@ -1,6 +1,6 @@
 # 🎉 Sentiment Analysis on YouTube Comments using RoBERTa and SVM 🚀
 
-![Sentiment Analysis](https://media.giphy.com/media/3o6Mb5Cy8Xb3N6L5u0/giphy.gif)
+!["Sentiment Analysis"](https://media.giphy.com/media/3o6Mb5Cy8Xb3N6L5u0/giphy.gif)
 
 ## 📚 Overview
 
